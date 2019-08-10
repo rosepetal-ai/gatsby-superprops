@@ -1,8 +1,7 @@
 {
   "packages": [
     "packages/common",
-    "packages/landing-gatsby",
-    "packages/reusecore"
+    "packages/landing-gatsby"
   ],
   "version": "independent",
   "npmClient": "yarn",
